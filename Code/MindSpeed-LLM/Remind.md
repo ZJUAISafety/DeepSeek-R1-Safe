@@ -1,0 +1,1 @@
+请将README中指定的MindSpeed-LLM版本置于此目录下
